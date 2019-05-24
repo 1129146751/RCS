@@ -10,6 +10,7 @@ public class Department {
     public Department() {
 		super();
 		// TODO Auto-generated constructor stub在master分支上面修改 后 基于master拉的分支中的 随碟附送咖啡机
+        //的数据库了双方就哭了
         //该文件也会发生变化
 	}
 
