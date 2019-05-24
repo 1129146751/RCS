@@ -11,6 +11,8 @@ public class Department {
 		super();
 		// TODO Auto-generated constructor stub在master分支上面修改 后 基于master拉的分支中的 随碟附送咖啡机
         //该文件也会发生变化
+
+
 	}
 
 	public Department(Integer deptId, String deptName) {
